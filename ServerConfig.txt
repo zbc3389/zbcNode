@@ -1,0 +1,10 @@
+去中心化服务器(DZY)
+123.245.30.20
+兑换码服务器IP:127.0.0.1
+DB服务器IP:127.0.0.1
+DB服务器端口:27020
+Http服务器端口:11001
+去中心化服务器.config
+GameServer.DB_Server
+PhotonGamePeer
+去中心化服务器
